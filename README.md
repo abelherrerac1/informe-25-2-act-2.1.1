@@ -1,2 +1,4 @@
-# informe-25-2-act-2.1.1
-Documento sobre Síntesis del español hablado en México 
+# informe-25-2-act-2.1.1 y 2.1.2
+Documentos sobre 
+1) Síntesis del español hablado en México ...
+2) Análisis del tema Linear Discrimination Analysis ... 
